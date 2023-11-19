@@ -4,7 +4,7 @@ These projects demonstrate my proficiency in SQL and my capacity to analyze comp
 
 ## Analyzing Employee Trends
 
-- [Analyzing Employee Trends.csv](Analyzing Employee Trends.sql) -
+- [Analyzing Employee Trends.csv](Analyzing Employee Trends.sql) 
 
 ## Project Description
 
@@ -34,7 +34,7 @@ I utilized SQL to explore the data and answer key business questions to derive a
 
 ##Exploring Trends in Automotive Industry
 
-- [Exploring Trends in Automotive Industry.csv](Exploring Trends in Automotive Industry.sql) -
+- [Exploring Trends in Automotive Industry.csv](Exploring Trends in Automotive Industry.sql) 
 
 
 ## Project Description
