@@ -32,7 +32,7 @@ I utilized SQL to explore the data and answer key business questions to derive a
 
 - Organized and presented findings in a clear format for consumption by leadership
 
-##Exploring Trends in Automotive Industry
+## Exploring Trends in Automotive Industry
 
 - [Exploring Trends in Automotive Industry.csv](Exploring Trends in Automotive Industry.sql) 
 
