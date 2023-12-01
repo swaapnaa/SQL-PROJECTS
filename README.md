@@ -72,7 +72,7 @@ I utilized SQL to explore the data and derive insights to guide pricing, invento
 Overall, this project enabled me to showcase my SQL skills to derive data-driven insights from car sales data to support key business decisions and strategy.
 
 
-## call center data cleaning
+## Call Center Data Cleaning
 
  [call_center.csv](call center.sql) 
 
